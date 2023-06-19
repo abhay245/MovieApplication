@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0485126.css",
+    "main.js": "/static/js/main.a7e9f597.js",
+    "static/media/login-background.jpg": "/static/media/login-background.05b1a1b3088cbb458939.jpg",
+    "static/media/background-landing.jpeg": "/static/media/background-landing.36d1f38018bc3ba36907.jpeg",
+    "static/media/Disney+_logo.svg.png": "/static/media/Disney+_logo.svg.d215f3a607042eccaad9.png",
+    "static/media/slider-badag.jpg": "/static/media/slider-badag.36599446c404fd8b5989.jpg",
+    "static/media/slider-badging.jpg": "/static/media/slider-badging.b33dd5b6b1aab9795814.jpg",
+    "static/media/ESPN.png": "/static/media/ESPN.2352db6f3162184d57ce.png",
+    "static/media/Hulu.png": "/static/media/Hulu.576a8ba97065d456f208.png",
+    "index.html": "/index.html",
+    "main.a0485126.css.map": "/static/css/main.a0485126.css.map",
+    "main.a7e9f597.js.map": "/static/js/main.a7e9f597.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0485126.css",
+    "static/js/main.a7e9f597.js"
+  ]
+}
