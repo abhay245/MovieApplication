@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "setup-production":"npm run install-client && npm run build-client && npm install",
-    "install-client":"cd client && npm install",
+    "setup-production": "npm run install-client && npm run build-client && npm install",
+    "install-client": "cd client && npm install",
     "build-client": "cd client && npm run build",
     "server": "nodemon server.mjs --ignore client",
     "client": "cd client && npm run start"
@@ -18,6 +18,7 @@
     "dotenv": "^16.1.4",
     "express": "^4.18.2",
     "express-validator": "^6.15.0",
+    "helmet": "^7.0.0",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.0.3",
     "nodemon": "^2.0.22"
