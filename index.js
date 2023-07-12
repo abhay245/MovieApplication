@@ -12,6 +12,10 @@ app.use(express.static(path.resolve(__dirname, './client/build')));
 
 const port = 5000;
 app.use(express.json());
+app.use(express.json());
+app.use(helmet());
+app.use(xss());
+app.use(mongoSanitize());
 const routes=require('./Routes.js')
 app.use('/',routes);
 app.listen(port, () => {
