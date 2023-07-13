@@ -35,6 +35,4 @@ The main dependencies used in this project are:
 
 For a complete list of dependencies, please refer to the `package.json` files in the root and client directories.
 
-## Documentation
 
-Currently, there is no specific documentation or API reference available for the project. However, the codebase is well-commented and follows a modular structure for easy understanding and maintenance.
