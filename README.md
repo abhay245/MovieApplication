@@ -1,4 +1,4 @@
-# Movie Application
+# Movie Application (Disney+ Clone)
 
 A responsive movie application built with the MERN (MongoDB, Express.js, ReactJS, Node.js) stack. This application allows users to register, login, wishlist their favorite movies, edit their preferences, and access their personal information.
 
